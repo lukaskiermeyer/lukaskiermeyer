@@ -1,12 +1,12 @@
 ### Hi there, I'm Lukas 👋
 
-I'm a recent Computer Science graduate specializing in Backend Development and cloud infrastructure. I am passionate about building scalable applications and am currently looking for a fully remote software developer role.
+I'm a recent Computer Science graduate specializing in Backend Development and cloud infrastructure. I am passionate about building scalable applications.
 
 ---
 
 #### 🛠️ My Tech Stack
 
-* **Languages:** Python, Java, JavaScript, TypeScript, Dart
+* **Languages:** JavaScript, Dart, Java, Python 
 * **Backend:** Node.js (Express)
 * **Frontend:** React, HTML5, CSS3
 * **Databases:** PostgreSQL, mySQL, MS-SQL 
