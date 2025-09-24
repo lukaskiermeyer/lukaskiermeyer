@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Lukas 👋
 
-<!--
-**lukaskiermeyer/lukaskiermeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Computer Science graduate specializing in Backend Development and cloud infrastructure. I am passionate about building scalable applications and am currently looking for a fully remote software developer role.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ My Tech Stack
+
+* **Languages:** Python, Java, JavaScript, TypeScript, Dart
+* **Backend:** Node.js (Express)
+* **Frontend:** React, HTML5, CSS3
+* **Databases:** PostgreSQL, mySQL, MS-SQL 
+* **DevOps & Cloud:** Docker, Git, Google Cloud
+
+---
