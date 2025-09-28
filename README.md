@@ -13,3 +13,4 @@ I'm a recent Computer Science graduate specializing in Backend Development and c
 * **DevOps & Cloud:** Docker, Git, Google Cloud
 
 ---
+My face recognicion smart-mirror raspberry pie project is private cause of safety reasons. 
